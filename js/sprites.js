@@ -1,7 +1,7 @@
 const gravity = 0.6
 
 // Puxando o Background
-const backgroundSpritePath = "../assets/background/placeholder.png"
+const backgroundSpritePath = "../images/background/placeholder.png"
 
 class Sprite {
     constructor({ position, velocity, dimensions, source }) {
