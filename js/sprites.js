@@ -159,4 +159,4 @@ const background = new Sprite({
         y: 0
     },
     source: backgroundSpritePath
-})
+});
